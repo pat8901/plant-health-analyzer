@@ -1,5 +1,5 @@
 venv
-documentation/dataset
+documentation/dataset/
 src/db.sqlite3
 src/webapp/__pycache__
 .env
